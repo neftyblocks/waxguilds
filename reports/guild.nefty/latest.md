@@ -200,7 +200,7 @@ Period: _Aug 27, 2024 to Oct 14, 2024_
 * 3 Seasons released, currently on 3rd season.
 * Release new outfits with each season ($AIGOD, $BLUEWHALE, $FED, $REDORDEAD, $RJUAN, $WOMBEE, $WIZARD)
 * 3 Airdrops delivered ($AIGOD, $RJUAN, $FED)
-* Incoming Airdrop for $MOB
+* Incoming MOB Airdrop that includes tokens: $WOMBEE, $RODC (RedOrDeadCoin), $BLUWHL
 * WIP prediction markets
 
 **Metrics**  
