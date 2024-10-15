@@ -138,9 +138,9 @@ Period: _Aug 27, 2024 to Oct 14, 2024_
 
 **Stats**
 
-* Views: 1k
-* Users: 779
-* Avg Engagement Time: 5m 31s
+* Views: 38k
+* Users: 1012
+* Avg Engagement Time: 17m 42s
 
 ---
 
@@ -198,9 +198,9 @@ Period: _Aug 27, 2024 to Oct 14, 2024_
 **Update**:
 
 * 3 Seasons released, currently on 3rd season.
-* Release new outfits with each season ($AIGOD, $BLUEWHALE, $FED, $REDORDEAD, $RJUAN, $WOMBEE, $WIZARD)
+* Release new outfits with each season ($AIGOD, $BLUWHL, $FED, $RODC, $RJUAN, $WOMBEE, $WIZARD)
 * 3 Airdrops delivered ($AIGOD, $RJUAN, $FED)
-* Incoming Airdrop for $MOB
+* Incoming Airdrop for $WOMBEE, $RODC, $BLUWHL
 * WIP prediction markets
 
 **Metrics**  
