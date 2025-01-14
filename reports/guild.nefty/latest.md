@@ -12,7 +12,7 @@
 
 ### <ins>Noteworthy</ins>
 
-* We had an incident with a server which impacted in missing rounds for our producer. We had to contact our provider and request an exchange of server. We added more tools for monitoring like headsup and ialert to improve response time from the team.  
+* We had an incident with a server which impacted in missing rounds for our producer. As the problem was caused by a hardware failure, we contacted our provider and requested a new server. We added more tools for monitoring like headsup and ialert to improve response time from the team.  
 
  
 
@@ -254,7 +254,7 @@ Period: _Dec 05, 2024 to Jan 10, 2025_
 
 **Metrics**
 
-* API Requests: 1.4M requests/week
+* No updates to report
 
 ---
 
@@ -274,11 +274,9 @@ Period: _Dec 05, 2024 to Jan 10, 2025_
 
 Period: _Dec 05, 2024 to Jan 10, 2025_
  
-* [NeftyShow Youtube channel](https://www.youtube.com/@NeftyShow): Daily broadcasts from Monday to Friday at 5pm CET, shared 134 videos at the moment with 337 subscribers. 
-* [NeftyShow X](https://www.x.com/@NeftyShow): Daily broadcasts from Monday to Friday at 5pm CET, shared 108 videos at the moment with a total of 22k views.
-* [NeftyBlocks X](https://x.com/neftyblocks): we registered 14.1K impressions and 27K Followers, engagement rate 10.5%.
-* [NeftyBlocks Discord](https://discord.gg/d3Y25QVKH8): 4k total members, 408 monthly visitors, 349 monthly messages.  
-* [NeftyBlocks Medium](https://neftyblocks.medium.com/): 230 views and 91 reads during November.
+* [NeftyBlocks X](https://x.com/neftyblocks): we registered 26.8K impressions and 27K Followers, engagement rate 9.9%.
+* [NeftyBlocks Discord](https://discord.gg/d3Y25QVKH8): 4k total members, 288 monthly visitors, 402 monthly messages.  
+* [NeftyBlocks Medium](https://neftyblocks.medium.com/): 94 views and 39 reads during December.
 
 
 ### <ins>Backups </ins>
